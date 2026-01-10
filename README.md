@@ -43,7 +43,7 @@
 
 ### 💻 Sistem Gereksinimleri
 - **İşletim Sistemi**: Windows 7 ve üzeri (Windows 10/11 önerilir)
-- **.NET Framework**: 4.5 veya üzeri (4.6+ önerilir)
+- **.NET Framework**: 4.5 veya üzeri (4.6+ önerilir, WinPE sistemlerde yüklü olması gerekir)
 - **Yönetici Hakları**: Gerekli
 - **DISM Desteği**: Windows yerleşik DISM aracı (tüm modern Windows'larda mevcut)
 
@@ -161,7 +161,7 @@ Bu aracı faydalı bulduysanız, lütfen bir yıldız vererek değerlendirin!
 
 ### 💻 System Requirements
 - **Operating System**: Windows 7 and above (Windows 10/11 recommended)
-- **.NET Framework**: 4.5 or higher (4.6+ recommended)
+- **.NET Framework**: 4.5 or higher (4.6+ recommended. WinPE systems also require the .NET Framework to be installed.)
 - **Administrator Rights**: Required
 - **DISM Support**: Windows built-in DISM tool (available in all modern Windows)
 

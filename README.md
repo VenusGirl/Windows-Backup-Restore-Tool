@@ -240,6 +240,6 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if this project helped you!
 
 ---
-</details>
 
 **Note**: This tool requires administrative privileges and uses Windows native tools (DISM, DiskPart, BCDBoot). Always test in a safe environment before using on production systems.
+</details>

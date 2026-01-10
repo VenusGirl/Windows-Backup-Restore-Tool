@@ -1,10 +1,10 @@
-# Windows Backup & Recovery Tool 🛡️
+# Windows Backup & Restore Tool 🛡️
 
 <details>
 <summary><b>📝Türkçe Açıklama</b></summary>
 
 ### Genel Bakış
-**Windows Backup & Recovery Tool**, Windows işletim sistemleri için geliştirilmiş profesyonel bir yedekleme ve geri yükleme aracıdır. Hem normal Windows ortamında hem de WinPE (Windows Preinstallation Environment) ortamında sorunsuz çalışabilir.
+**Windows Backup & Restore Tool**, Windows işletim sistemleri için geliştirilmiş profesyonel bir yedekleme ve geri yükleme aracıdır. Hem normal Windows ortamında hem de WinPE (Windows Preinstallation Environment) ortamında sorunsuz çalışabilir.
 
 ### ✨ Temel Özellikler
 
@@ -122,7 +122,7 @@ Bu aracı faydalı bulduysanız, lütfen bir yıldız vererek değerlendirin!
 <summary><b>📝 English Description</b></summary>
 
 ### Overview
-**Windows Backup & Recovery Tool** is a professional backup and restoration utility designed for Windows operating systems. It works seamlessly in both normal Windows environments and WinPE (Windows Preinstallation Environment).
+**Windows Backup & Restore Tool** is a professional backup and restoration utility designed for Windows operating systems. It works seamlessly in both normal Windows environments and WinPE (Windows Preinstallation Environment).
 
 ### ✨ Key Features
 

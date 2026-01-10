@@ -139,8 +139,6 @@ Bu aracı faydalı bulduysanız, lütfen bir yıldız vererek değerlendirin!
 **Not**: Yedeklerinizi her zaman test edin! Bir yedek, ancak ondan geri yükleme yapabildiğiniz kadar iyidir. Yedekleme stratejinizin etkili olduğundan emin olmak için periyodik olarak test geri yüklemeleri gerçekleştirin.
 </details>
 
----
-
 <details>
 <summary><b>📝 English Description</b></summary>
 

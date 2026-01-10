@@ -4,7 +4,7 @@
 [![Open Source?](https://img.shields.io/badge/Open%20source%3F-Of%20course%21%20%E2%9D%A4-009e0a.svg?style=flat)](https://github.com/abdullah-erturk/pmas/)
 [![Stable?](https://img.shields.io/badge/Release_Download_Link-v1%2E0%2E0%20%7C%20Stable-009e0a.svg?style=flat)](https://github.com/abdullah-erturk/Windows-Backup-Recovery-Tool)
 
-# Windows Backup & Recovery Tool 🛡️
+# Windows Backup & Restore Tool 🛡️
 
 ## Link:
 

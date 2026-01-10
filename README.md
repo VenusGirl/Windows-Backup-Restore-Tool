@@ -119,7 +119,7 @@ Araç, `bin\wim_exclusions.ini` dosyasında tanımlanan kuralları kullanır:
 - **Temel Araçlar**: DISM, DiskPart, BCDBoot, Robocopy
 - **Platform**: x86/x64 uyumlu
 
-🎯 Kimler için?
+🎯 #### Kimler için?
 - ✅ Sistem yöneticileri
 - ✅ BT uzmanları
 - ✅ İleri düzey kullanıcılar
@@ -238,7 +238,7 @@ The tool uses rules defined in `bin\wim_exclusions.ini`:
 - **Core Tools**: DISM, DiskPart, BCDBoot, Robocopy
 - **Platform**: x86/x64 compatible
 
-## 🎯 For whom?
+### 🎯 For whom?
 - ✅ System administrators
 - ✅ IT professionals
 - ✅ Power users

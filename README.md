@@ -1,10 +1,29 @@
-# Windows Backup & Restore Tool 🛡️
+<a href="https://buymeacoffee.com/abdullaherturk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-<details>
-<summary><b>📝Türkçe Açıklama</b></summary>
+[![made-for-windows](https://img.shields.io/badge/Made%20for-Windows-00A4E3.svg?style=flat&logo=microsoft)](https://www.microsoft.com/)
+[![Open Source?](https://img.shields.io/badge/Open%20source%3F-Of%20course%21%20%E2%9D%A4-009e0a.svg?style=flat)](https://github.com/abdullah-erturk/pmas/)
+[![Stable?](https://img.shields.io/badge/Release_Download_Link-v1%2E0%2E0%20%7C%20Stable-009e0a.svg?style=flat)](https://github.com/abdullah-erturk/Windows-Backup-Recovery-Tool)
+
+# Windows Backup & Recovery Tool
+
+## Link:
+
+[![Stable?](https://img.shields.io/badge/Release-v1.svg?style=flat)](https://github.com/abdullah-erturk/Windows-Backup-Recovery-Tool/archive/refs/heads/main.zip)
+
+# Windows Backup & Restore Tool 🛡️
 
 ### Genel Bakış
 **Windows Backup & Restore Tool**, Windows işletim sistemleri için geliştirilmiş profesyonel bir yedekleme ve geri yükleme aracıdır. Hem normal Windows ortamında hem de WinPE (Windows Preinstallation Environment) ortamında sorunsuz çalışabilir.
+
+---
+
+### Overview
+**Windows Backup & Restore Tool** is a professional backup and restoration utility designed for Windows operating systems. It works seamlessly in both normal Windows environments and WinPE (Windows Preinstallation Environment).
+
+---
+
+<details>
+<summary><b>📝Türkçe Açıklama</b></summary>
 
 ### ✨ Temel Özellikler
 
@@ -119,9 +138,6 @@ Bu aracı faydalı bulduysanız, lütfen bir yıldız vererek değerlendirin!
 
 <details>
 <summary><b>📝 English Description</b></summary>
-
-### Overview
-**Windows Backup & Restore Tool** is a professional backup and restoration utility designed for Windows operating systems. It works seamlessly in both normal Windows environments and WinPE (Windows Preinstallation Environment).
 
 ### ✨ Key Features
 

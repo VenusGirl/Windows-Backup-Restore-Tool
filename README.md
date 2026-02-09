@@ -54,6 +54,8 @@ For console interface lovers: https://github.com/abdullah-erturk/Windows-Backup-
 #### 🌍 Çok Dilli Destek
 - Türkçe
 - İngilizce
+- Fransızca
+- Basit Çince
 - Genişletilebilir dil sistemi (INI dosyaları ile)
 
 #### 🎯 Ek Özellikler
@@ -173,6 +175,8 @@ Bu aracı faydalı bulduysanız, lütfen bir yıldız vererek değerlendirin!
 #### 🌍 Multi-Language Support
 - Turkish
 - English
+- French
+- Simplified Chinese
 - Extensible language system (via INI files)
 
 #### 🎯 Additional Features
